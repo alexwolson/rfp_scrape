@@ -1,7 +1,7 @@
 *.zip
 *.DS_Store
 *.html
-
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
